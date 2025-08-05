@@ -20,7 +20,7 @@ This repository contains my solutions to projects and exercises from the **"Scie
 - Modular code organization and reusable components
 - Solving algorithmic challenges using Python
 
-## 💼 Projects included
+## 💼 Certification projects
 
 - Arithmetic Formatter
 - Time Calculator
